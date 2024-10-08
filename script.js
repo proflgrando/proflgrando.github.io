@@ -5,11 +5,10 @@ document.addEventListener('DOMContentLoaded', () => {
         event.preventDefault(); // Impede o envio padrão do formulário
 
         const name = document.getElementById('name').value;
-        const email = document.getElementById('email').value;
         const message = document.getElementById('message').value;
 
         // Validação simples
-        if (name && email && message) {
+        if (name && message) {
             // Aqui você pode adicionar lógica para enviar os dados para um servidor
             alert(`Obrigado, ${name}! Sua mensagem foi enviada com sucesso.`);
             form.reset(); // Limpa o formulário após o envio
