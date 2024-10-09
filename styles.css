@@ -6,7 +6,7 @@ body {
 }
 
 header {
-    background: a7bed3;
+    background: #a7bed3;
     color: white;
     text-align: center;
     padding: 20px 0;
@@ -40,7 +40,7 @@ section {
 }
 
 h2 {
-    color: #4CAF50;
+    color: #dab894;
 }
 
 form {
