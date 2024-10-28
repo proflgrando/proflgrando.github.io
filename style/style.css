@@ -45,8 +45,8 @@ button {
     --accent: mediumvioletred;
     --accent-hover: mediumvioletred;
     --marked: mediumspringgreen;
-    --h1 {color: #f5f5f5};
-    --h2 {color: #f5f5f5};
+    --h1 {color: #bd3838};
+    --h2 {color: #ddd4d4};
   }
   
   /* Dark theme */
