@@ -50,6 +50,10 @@ button {
   /* Dark theme */
 @media (prefers-color-scheme: dark) {
 :root,
+h1, h2 {
+    color: #f5f5f5;
+}
+
 ::backdrop {
     color-scheme: dark;
     --bg: rgb(17, 18, 18);
