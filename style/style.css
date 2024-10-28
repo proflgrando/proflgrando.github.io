@@ -26,4 +26,7 @@ h1, h2 {
     font-weight: bold;
 }
 
-
+div.box {
+	width: 400px;
+	display: inline-block;
+}
