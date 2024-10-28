@@ -41,7 +41,7 @@ button {
     --bg: mintcream;
     --border: darkslategray;
     --accent-bg: honeydew;
-    --text: darkslategray;
+    --text: rgb(250, 253, 253);
     --accent: mediumvioletred;
     --accent-hover: mediumvioletred;
     --marked: mediumspringgreen;
