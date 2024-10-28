@@ -45,14 +45,13 @@ button {
     --accent: mediumvioletred;
     --accent-hover: mediumvioletred;
     --marked: mediumspringgreen;
+    --h1 {color: #f5f5f5};
+    --h2 {color: #f5f5f5};
   }
   
   /* Dark theme */
 @media (prefers-color-scheme: dark) {
 :root,
-h1, h2 {
-    color: #f5f5f5;
-}
 
 ::backdrop {
     color-scheme: dark;
