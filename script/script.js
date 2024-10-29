@@ -6,10 +6,10 @@ toggleThemeButton.addEventListener('click', () => {
     document.body.classList.toggle('light-mode');
 
     if (document.body.classList.contains('dark-mode')) {
-        toggleThemeButton.textContent = '☀️ Modo Claro';
+        toggleThemeButton.textContent = '☀️ Claro';
         pageTitle.style.color = '#f4f4f4';
     } else {
-        toggleThemeButton.textContent = '🌙 Modo Escuro';
+        toggleThemeButton.textContent = '🌙 Escuro';
         pageTitle.style.color = '#333';
     }
 });
