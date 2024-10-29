@@ -1,5 +1,7 @@
 img {
     width: 200px;
+    margin: auto;
+    display: block;
     }
 
 body {
@@ -34,4 +36,34 @@ div.box {
 button {
     background-color: #ccc;
     font-weight: bold;
+}
+
+aside {
+text-align: center;
+}
+
+:root {
+--sans-font: Georgia, "Times New Roman", serif;
+--bg: mintcream;
+--border: darkslategray;
+--accent-bg: honeydew;
+--text: darkslategray;
+--accent: mediumvioletred;
+--accent-hover: mediumvioletred;
+--marked: mediumspringgreen;
+}   
+
+/* Dark theme */
+@media (prefers-color-scheme: dark) {
+:root,
+::backdrop {
+    color-scheme: dark;
+    --bg: rgb(17, 18, 18);
+    --border: rgb(80, 90, 90);
+    --accent-bg: rgb(35, 35, 36);
+    --text: ghostwhite;
+    --accent: lightskyblue;
+    --accent-hover: lightblue;
+    --marked: gold;
+}
 }
