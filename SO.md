@@ -12,11 +12,7 @@ Fundamentos de Sistemas Operacionais;
 
 Estruturas de Computadores e de Sistemas Operacionais; 
 
-Gerenciamento de Processos; 
-
-Escalonamento de Processador; 
-
-Sincronização de Processos Concorrentes; Deadlocks; 
+Gerenciamento de Processos; Escalonamento de Processador; Sincronização de Processos Concorrentes; Deadlocks; 
 
 Gerenciamento de Memória; Memória Virtual; 
 
@@ -63,3 +59,6 @@ Estudo da Estrutura de Sistemas Operacionais Existentes.
 * test
 * testmarkd
 
+
+# Bar
+* 9
