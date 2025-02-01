@@ -11,7 +11,7 @@ Sistema Computacional:
 
 ![Localização de um SO num sistema computacional](imagem/SO1.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+<h6>Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos. </h6>
 
 </section>
 
