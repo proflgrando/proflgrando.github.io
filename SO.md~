@@ -10,7 +10,7 @@ date:  2025
 
 <section>
   <section> 
-  ePrincipais funções
+  Principais funções
   
     Gerenciamento de processos: Controla a execução de programas, gerenciando múltiplos processos e garantindo que eles utilizem os recursos de forma eficiente.
     
@@ -19,9 +19,7 @@ date:  2025
   
   <section>
     Gerenciamento de dispositivos: Controla a comunicação com dispositivos periféricos, como teclados, mouses, impressoras e outros componentes externos.
-  </section>
-  
-  <section>
+
     Gerenciamento de arquivos: Organiza, armazena e controla o acesso a arquivos e pastas no sistema, garantindo que as informações sejam facilmente acessíveis e seguras.
   </section>
   
