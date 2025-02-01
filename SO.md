@@ -15,6 +15,8 @@ Estruturas de Computadores e de Sistemas Operacionais;
 Gerenciamento de Processos; Escalonamento de Processador; Sincronização de Processos Concorrentes; Deadlocks; 
 
 Gerenciamento de Memória; Memória Virtual; 
+</section>
+<section>
 
 Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário; 
 
