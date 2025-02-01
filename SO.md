@@ -6,7 +6,7 @@ output:
   revealjs::revealjs_presentation
 ---
 
-# Objetivo do curso:
+<section> Objetivo do curso:
 
 Fundamentos de Sistemas Operacionais; 
 
@@ -23,6 +23,8 @@ Gerenciamento de Memória; Memória Virtual;
 Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário; 
 
 Estudo da Estrutura de Sistemas Operacionais Existentes.
+
+</section>
 
 
 <section>
