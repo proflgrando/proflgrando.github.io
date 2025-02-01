@@ -6,6 +6,25 @@ output:
   revealjs::revealjs_presentation
 ---
 
+# Objetivo do curso:
+
+Fundamentos de Sistemas Operacionais; 
+
+Estruturas de Computadores e de Sistemas Operacionais; 
+
+Gerenciamento de Processos; 
+
+Escalonamento de Processador; 
+
+Sincronização de Processos Concorrentes; Deadlocks; 
+
+Gerenciamento de Memória; Memória Virtual; 
+
+Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário; 
+
+Estudo da Estrutura de Sistemas Operacionais Existentes.
+
+
 <section>
   O que é um sistema operacional?
   
@@ -40,5 +59,5 @@ output:
 
 # Bar
 * test
-* test
+* testmarkd
 
