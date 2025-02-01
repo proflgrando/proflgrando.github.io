@@ -10,7 +10,8 @@ output:
 Sistema Computacional:
 
 ![Localização de um SO num sistema computacional](imagem/SO1.png)
-fonte imagem: Tanebaum
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 </section>
 
