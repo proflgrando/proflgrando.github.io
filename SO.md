@@ -1,10 +1,17 @@
 ---
-author: Leonardo Grando
+author: Prof. Leonardo Grando
 title: Sistemas Operacionais
 date:  2025
 output: 
   revealjs::revealjs_presentation
 ---
+
+# Sistema Computacional:
+
+![Localização de um SO num sistema computacional](imagem/SO1.png)
+fonte imagem: Tanebaum
+
+
 
 <section> Objetivo do curso:
 
