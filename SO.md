@@ -2,6 +2,11 @@
 author: Leonardo Grando
 title: Sistemas Operacionais
 date:  2025
+output: 
+  revealjs::revealjs_presentation:
+    reveal_options:
+      transition: "slide"
+      vertical: true
 ---
 <section>
   O que é um sistema operacional?
