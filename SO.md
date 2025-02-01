@@ -9,17 +9,19 @@ date:  2025
 </section>
 
 <section>
-  <section>Principais funções
-    **Gerenciamento de processos:** Controla a execução de programas, gerenciando múltiplos processos e garantindo que eles utilizem os recursos de forma eficiente.
-    **Gerenciamento de memória:** Organiza a memória RAM e a memória de armazenamento, alocando espaço para programas em execução e otimizando o uso da memória.
+  <section> Principais funções
+  
+    Gerenciamento de processos: Controla a execução de programas, gerenciando múltiplos processos e garantindo que eles utilizem os recursos de forma eficiente.
+    
+    Gerenciamento de memória: Organiza a memória RAM e a memória de armazenamento, alocando espaço para programas em execução e otimizando o uso da memória.
   </section>
   
   <section>
-    **Gerenciamento de dispositivos:** Controla a comunicação com dispositivos periféricos, como teclados, mouses, impressoras e outros componentes externos.
+    Gerenciamento de dispositivos: Controla a comunicação com dispositivos periféricos, como teclados, mouses, impressoras e outros componentes externos.
   </section>
   
   <section>
-    **Gerenciamento de arquivos:** Organiza, armazena e controla o acesso a arquivos e pastas no sistema, garantindo que as informações sejam facilmente acessíveis e seguras.
+    Gerenciamento de arquivos: Organiza, armazena e controla o acesso a arquivos e pastas no sistema, garantindo que as informações sejam facilmente acessíveis e seguras.
   </section>
   
   <section>
