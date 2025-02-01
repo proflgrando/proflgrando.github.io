@@ -11,9 +11,22 @@ Sistema Computacional:
 
 ![Localização de um SO num sistema computacional](imagem/SO1.png)
 
-<h6>Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos. </h6>
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 </section>
+
+<section>
+
+O programa pelo qual os usuários interagem pode ser pelo shell (TUI) ou interface gráfica (GUI)
+
+ </section> 
+
+ <section>
+
+Os tipos de softwares podem ser o modo núcleo e modo usuário. SO opera no modo núcleo (supervisor) - Tem acesso a todo hardware.
+
+Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Geralmente não podem executar instruções de E/S (entrada/saida)
+ </section> 
 
 <section> Objetivo do curso:
 
