@@ -8,7 +8,8 @@ output:
 
 <section>
   O que é um sistema operacional?
-  Um sistema operacional (SO) é um conjunto de programas que gerenciam os recursos de um computador ou dispositivo eletrônico e facilitam a interação entre o hardware e os aplicativos ou o usuário. Ele funciona como uma camada intermediária entre o usuário e o hardware, garantindo que os diferentes componentes do sistema trabalhem de forma coordenada.
+  
+  Conjunto de programas que gerenciam os recursos de um computador ou dispositivo eletrônico e facilitam a interação entre o hardware e os aplicativos ou o usuário. Ele funciona como uma camada intermediária entre o usuário e o hardware, garantindo que os diferentes componentes do sistema trabalhem de forma coordenada.
 </section>
 
 <section>
