@@ -6,12 +6,13 @@ output:
   revealjs::revealjs_presentation
 ---
 
-# Sistema Computacional:
+<section>
+Sistema Computacional:
 
 ![Localização de um SO num sistema computacional](imagem/SO1.png)
 fonte imagem: Tanebaum
 
-
+</section>
 
 <section> Objetivo do curso:
 
