@@ -17,6 +17,12 @@ date:  2025
 	*Exemplos de sistemas operacionais* incluem Windows, macOS, Linux, Android, e iOS. </section>
 </section>
 
+<section>Horizontal Slide</section>
+<section>
+  <section>Vertical Slide 1</section>
+  <section>Vertical Slide 2</section>
+</section>
+
 # Bar
 * test
 * test
