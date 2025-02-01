@@ -9,7 +9,8 @@ date:  2025
 </section>
 
 <section>
-  <section> Principais funções
+  <section> 
+  ePrincipais funções
   
     Gerenciamento de processos: Controla a execução de programas, gerenciando múltiplos processos e garantindo que eles utilizem os recursos de forma eficiente.
     
@@ -25,8 +26,8 @@ date:  2025
   </section>
   
   <section>
-    **Interface com o usuário:** Fornece uma interface gráfica ou de linha de comando para que o usuário interaja com o sistema, executando comandos e acessando recursos.
-    *Exemplos de sistemas operacionais* incluem Windows, macOS, Linux, Android, e iOS. 
+    Interface com o usuário: Fornece uma interface gráfica ou de linha de comando para que o usuário interaja com o sistema, executando comandos e acessando recursos.
+    Exemplos de sistemas operacionais incluem Windows, macOS, Linux, Android, e iOS. 
   </section>
 </section>
 
