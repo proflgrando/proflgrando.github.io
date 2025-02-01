@@ -6,6 +6,24 @@ output:
   revealjs::revealjs_presentation
 ---
 
+<section> Objetivo do curso:
+
+Fundamentos de Sistemas Operacionais; 
+
+Estruturas de Computadores e de Sistemas Operacionais; 
+
+Gerenciamento de Processos; Escalonamento de Processador; Sincronização de Processos Concorrentes; Deadlocks; 
+
+Gerenciamento de Memória; Memória Virtual; 
+</section>
+<section>
+
+Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário; 
+
+Estudo da Estrutura de Sistemas Operacionais Existentes.
+
+</section>
+
 <section>
 Sistema Computacional:
 
@@ -27,25 +45,6 @@ Os tipos de softwares podem ser o modo núcleo e modo usuário. SO opera no modo
 
 Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Geralmente não podem executar instruções de E/S (entrada/saida)
  </section> 
-
-<section> Objetivo do curso:
-
-Fundamentos de Sistemas Operacionais; 
-
-Estruturas de Computadores e de Sistemas Operacionais; 
-
-Gerenciamento de Processos; Escalonamento de Processador; Sincronização de Processos Concorrentes; Deadlocks; 
-
-Gerenciamento de Memória; Memória Virtual; 
-</section>
-<section>
-
-Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário; 
-
-Estudo da Estrutura de Sistemas Operacionais Existentes.
-
-</section>
-
 
 <section>
   O que é um sistema operacional?
