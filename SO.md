@@ -79,7 +79,6 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 
 
 
-# Historia dos computadores
 * 1945-1955: Primeira geração: Válvulas, painéis de programação
 * 1955-1955: Segunda geração: transistores, sistemas em lote
 * 1965-1980: Terceira geração: CIs e multiprogramação
