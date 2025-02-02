@@ -27,7 +27,7 @@ Estudo da Estrutura de Sistemas Operacionais Existentes.
 <section>
 Sistema Computacional:
 
-![Localização de um SO num sistema computacional](imagem/SO1.png)
+![Localização de um SO num sistema computacional](imagem/SO1/SO1.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
@@ -80,11 +80,11 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 
 
 # Historia dos computadores
-* 1945-1955: Primeira geração: Válvulas, painéis de programação
-* 1955-1955: Segunda geração: transistores, sistemas em lote
-* 1965-1980: Terceira geração: CIs e multiprogramação
-* 1980-presente: Quarta geração: computadores pessoais
-* 1990-presente: Quinta Geração: computadores móveis
+* 1945-1955: Geração 1: Válvulas, painéis de programação
+* 1955-1955: Geração 2: transistores, sistemas em lote
+* 1965-1980: Geração 3: CIs e multiprogramação
+* 1980-presente: Geração 4: computadores pessoais
+* 1990-presente: Geração 5: computadores móveis
 
 # Tipos de SOs
 * SO para computadores de grande porte
@@ -94,3 +94,17 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 * SO de tempo real
 * SO embarcado
 * SO de cartões inteligentes
+
+# Hardware de computador:
+
+![Componentes de um computador pessoal](imagem/SO1/SO-12-29.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+
+# Hardware de computador:
+
+![a)pipeliene de 3 estágios e b) CPU superescalar](imagem/SO1/SO-12-56.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
