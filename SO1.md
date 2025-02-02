@@ -279,7 +279,9 @@ As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre 
 
 ![VMs redescoberto com Hypervisor](imagem/SO1/SO-33-01.png)
 
-\small{**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.}
+# Referência Bibliográfica
+
+<p style="font-size: 10px;">**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 
 
 # Referência Bibliográfica
