@@ -258,8 +258,8 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 # Máquinas Virtuais:
 
-![VM/370) com CMS](imagem/SO1/SO-33-01.png)
+![VM/370 com CMS](imagem/SO1/SO17-12-22.png)
 
-![VM/370) com CMS](imagem/SO1/SO-33-01.png)
+![VMs redescoberto com Hypervisor](imagem/SO1/SO-33-01.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
