@@ -192,13 +192,13 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 **Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 
-# 
+# Gerenciamento de Diretórios e Arquivos
 
 ![Gerenciamento de processos e de arquivos](imagem/SO1/SO-11-40-46.png)
 
 **Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 
-# Gerenciamento de Diretórios e Arquivos
+# 
 
 ![Gerenciamento do sistema de diretório e de arquivos](imagem/SO1/SO-11-40-59.png)
 
@@ -208,7 +208,7 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 - Cada processo é composto por três segmentos: **Texto**, **Dados** e **Pilha**.
 
-![Segmentos de um processo](imagem/SO1/SO-11-40-59.png)
+![Segmentos de um processo](imagem/SO1/SO-16-10-24.png)
 
 **Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 
@@ -235,7 +235,6 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 5. **Máquinas Virtuais**: Permitem a execução de sistemas operacionais independentes sobre um único hardware físico.
 6. **Exonúcleos**: A gestão de recursos é movida para o espaço de usuário, oferecendo maior modularidade e flexibilidade.
 
-(TANENBAUM, 2015)
 
 # Sistema Monolítico
 
@@ -245,8 +244,6 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 **Explicação:** No sistema monolítico, todo o código do sistema operacional é combinado em um único bloco, o que pode dificultar a manutenção e atualização do sistema.
 
-(TANENBAUM, 2015)
-
 # Sistema de Camadas
 
 ![SO THE](imagem/SO1/SO-32-01.png)
@@ -254,8 +251,6 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 **Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 
 **Explicação:** No modelo em camadas, o sistema operacional é organizado de forma hierárquica, onde cada camada interage apenas com as camadas adjacentes, proporcionando maior modularidade.
-
-(TANENBAUM, 2015)
 
 # Micronúcleos
 
@@ -265,7 +260,6 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 **Explicação:** Os micronúcleos oferecem um núcleo minimalista e delegam muitas funções para processos no espaço de usuário, aumentando a flexibilidade e a segurança do sistema.
 
-(TANENBAUM, 2015)
 
 # Modelo Cliente-Servidor
 
@@ -275,19 +269,9 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 **Explicação:** O modelo cliente-servidor divide o sistema em partes que solicitam e fornecem serviços, promovendo a comunicação e a distribuição de recursos de forma eficiente.
 
-(TANENBAUM, 2015)
-
 # Máquinas Virtuais
 
-![VM/#&) com CMS](imagem/SO1/SO-33-01.png)
-
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
-
-**Explicação:** As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre um único hardware físico, isolando-os uns dos outros para garantir segurança e independência.
-
-(TANENBAUM, 2015)
-
-# Máquinas Virtuais (cont.)
+As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre um único hardware físico, isolando-os uns dos outros para garantir segurança e independência.
 
 ![VM/370 com CMS](imagem/SO1/SO17-12-22.png)
 
@@ -296,8 +280,6 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 **Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 
 **Explicação:** O conceito de máquinas virtuais foi expandido com o uso de hypervisores, que permitem a criação e o gerenciamento de diversas máquinas virtuais em um único sistema físico.
-
-(TANENBAUM, 2015)
 
 # Referência Bibliográfica
 
