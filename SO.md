@@ -180,7 +180,7 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Chamada de Sistema:
+# 
 
 ![Gerenciamento do sistema de diretório e de arquivos e diversos](imagem/SO1/SO-11-40-59.png)
 
@@ -217,6 +217,8 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 2. **Sistemas de camadas**: O sistema operacional é organizado em camadas hierárquicas, onde cada camada executa uma função específica e interage apenas com a camada imediatamente superior ou inferior.
 
 3. **Micronúcleos**: São sistemas operacionais com núcleos mínimos, que oferecem apenas os serviços essenciais, delegando outras funções a processos de espaço de usuário.
+
+#
 
 4. **Sistemas clientes-servidor**: Estrutura onde o sistema é dividido em clientes que solicitam serviços e servidores que os fornecem, frequentemente em uma rede distribuída.
 
