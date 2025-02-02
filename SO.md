@@ -151,7 +151,7 @@ Nome do caminho: ~/Documentos/Git/PaginaWEB - ProfLgrando/proflgrando.github.io
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Arquivos:
+# 
 
 No UNIX ocorre a montagem do sistema de arquivos (DVDs, memória de dispositivos USB etc)
 
@@ -174,7 +174,7 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Chamada de Sistema:
+# 
 
 ![Gerenciamento de processos e de arquivos](imagem/SO1/SO-11-40-46.png)
 
@@ -192,7 +192,7 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Segmentos de um processo:
+#
 
 ![Cada processo possui três segmentos: texto, dados e pilha](imagem/SO1/SO-16-10-24.png)
 
