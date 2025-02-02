@@ -140,12 +140,36 @@ Associado a cada processo existe um espaço de endereçamento
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Processos:
+# Arquivos:
 
-Processos é um programa em execução
+Diretório: maneira de agrupar os arquivos
 
-Associado a cada processo existe um espaço de endereçamento
+![Árvore de processos](imagem/SO1/SO-27-59.png)
 
-![Árvore de processos](imagem/SO1/SO-27-36.png)
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Arquivos:
+
+Diretório: maneira de agrupar os arquivos (hierarquia)
+
+Nome do caminho: ~/Documentos/Git/PaginaWEB - ProfLgrando/proflgrando.github.io
+
+![Sistemas de arquivos](imagem/SO1/SO-27-59.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Arquivos:
+
+No UNIX ocorre a montagem do sistema de arquivos (DVDs, memória de dispositivos USB etc)
+
+![a) antes da montagem, b) após a montagem](imagem/SO1/SO-28-39.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Pipe:
+
+Pseudoarquiv que pode ser usado para conectar dois processos.
+
+![Processos ligados por um pipe](imagem/SO1/SO-29-30.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
