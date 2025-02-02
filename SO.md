@@ -77,8 +77,6 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
     *Exemplos de sistemas operacionais* incluem Windows, macOS, Linux, Android, e iOS. 
 </section>
 
-
-
 # Historia dos computadores
 * 1945-1955: Geração 1: Válvulas, painéis de programação
 * 1955-1955: Geração 2: transistores, sistemas em lote
@@ -87,13 +85,13 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 * 1990-presente: Geração 5: computadores móveis
 
 # Tipos de SOs
-* SO para computadores de grande porte
-* SO de Servidores
-* SO de multiprocessadores
-* SO de computadores pessoais
-* SO de tempo real
-* SO embarcado
-* SO de cartões inteligentes
+* SOs para computadores de grande porte
+* SOs de Servidores
+* SOs de multiprocessadores
+* SOs de computadores pessoais
+* SOs de tempo real
+* SOs embarcado
+* SOs de cartões inteligentes
 
 # Hardware:
 
@@ -128,6 +126,26 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 # Barramentos:
 
-![Estrutura de um sistema X86 grande](imagem/SO1/SO-27-04.png)
+![Estrutura de um sistema x86 grande](imagem/SO1/SO-27-04.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Processos:
+
+Processos é um programa em execução
+
+Associado a cada processo existe um espaço de endereçamento
+
+![Árvore de processos](imagem/SO1/SO-27-36.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Processos:
+
+Processos é um programa em execução
+
+Associado a cada processo existe um espaço de endereçamento
+
+![Árvore de processos](imagem/SO1/SO-27-36.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
