@@ -86,5 +86,11 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 * 1980-presente: Quarta geração: computadores pessoais
 * 1990-presente: Quinta Geração: computadores móveis
 
-# Bar
-* 9
+# Tipos de SOs
+* SO para computadores de grande porte
+* SO de Servidores
+* SO de multiprocessadores
+* SO de computadores pessoais
+* SO de tempo real
+* SO embarcado
+* SO de cartões inteligentes
