@@ -95,38 +95,38 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 * SO embarcado
 * SO de cartões inteligentes
 
-### Hardware:
+# Hardware:
 
 ![Componentes de um computador pessoal](imagem/SO1/SO-12-29.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 
-### Pipeline execução CPU:
+# Pipeline execução CPU:
 
 ![a)pipeline de 3 estágios e b) CPU superescalar](imagem/SO1/SO-12-56.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-### Multithreadng e Multicore:
+# Multithreadng e Multicore:
 
 ![a)Chip Quadcore e cache L2 compartilhada e b) L2 separadas](imagem/SO1/SO-10-25-20.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-### Memória:
+# Memória:
 
 ![Hierarquia de memória](imagem/SO1/SO-24-43.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-### E/S:
+# E/S:
 
 ![a)Passos para iniciar um dispositivo E/S e b) Como CPU é interrompida](imagem/SO1/SO-26-35.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-### Barramentos:
+# Barramentos:
 
 ![Estrutura de um sistema X86 grande](imagem/SO1/SO-27-04.png)
 
