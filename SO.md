@@ -95,16 +95,22 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 * SO embarcado
 * SO de cartões inteligentes
 
-# Hardware de computador:
+### Hardware de computador:
 
 ![Componentes de um computador pessoal](imagem/SO1/SO-12-29.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 
-# Hardware de computador:
+### Hardware de computador:
 
-![a)pipeliene de 3 estágios e b) CPU superescalar](imagem/SO1/SO-12-56.png)
+![a)pipeline de 3 estágios e b) CPU superescalar](imagem/SO1/SO-12-56.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+### Hardware de computador:
+
+![Hierarquia de mémoria](imagem/SO1/SO-24-43.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
