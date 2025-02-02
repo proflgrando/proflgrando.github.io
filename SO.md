@@ -41,7 +41,7 @@ O programa pelo qual os usuários interagem pode ser pelo shell (TUI) ou interfa
 
  <section>
 
-Os tipos de softwares podem ser o modo núcleo e modo usuário. SO opera no modo núcleo (supervisor) - Tem acesso a todo hardware.
+Os tipos de softwares podem ser o modo núcleo e modo usuário. SO opera no modo núcleo (supervisor) - Possui acesso a todo hardware.
 
 Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Geralmente não podem executar instruções de E/S (entrada/saida)
  </section> 
