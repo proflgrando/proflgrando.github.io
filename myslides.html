@@ -45,193 +45,178 @@
 <section class="slide level1">
 
 <section>
-<h2 id="objetivo-do-curso">Objetivo do curso</h2>
-<ul>
-<li>Fundamentos de Sistemas Operacionais</li>
-<li>Estruturas de Computadores e Sistemas Operacionais</li>
-<li>Gerenciamento de Processos</li>
-<li>Escalonamento de Processador</li>
-<li>Sincronização de Processos Concorrentes</li>
-<li>Deadlocks</li>
-<li>Gerenciamento de Memória e Memória Virtual</li>
-</ul>
+<p>Objetivo do curso:</p>
+<p>Fundamentos de Sistemas Operacionais;</p>
+<p>Estruturas de Computadores e de Sistemas Operacionais;</p>
+<p>Gerenciamento de Processos; Escalonamento de Processador; Sincronização de Processos Concorrentes; Deadlocks;</p>
+Gerenciamento de Memória; Memória Virtual;
 </section>
 <section>
-<h2 id="conteúdo-abordado">Conteúdo abordado</h2>
-<ul>
-<li>Sistema de Arquivos</li>
-<li>Sistema de Entrada e Saída</li>
-<li>Armazenamento Secundário</li>
-<li>Estudo da Estrutura de Sistemas Operacionais Existentes</li>
-</ul>
+<p>Sistema de Arquivos; Sistema de Entrada e Saída; Armazenamento Secundário;</p>
+<p>Estudo da Estrutura de Sistemas Operacionais Existentes.</p>
 </section>
 <section>
-<h2 id="sistema-computacional">Sistema Computacional</h2>
+<p>Sistema Computacional:</p>
 <figure>
 <img data-src="imagem/SO1/SO1.png" alt="" /><figcaption>Localização de um SO num sistema computacional</figcaption>
 </figure>
-Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.
+<strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
 </section>
 <section>
-<h2 id="interação-com-o-sistema">Interação com o Sistema</h2>
-O programa pelo qual os usuários interagem pode ser via shell (TUI) ou interface gráfica (GUI).
+<p>O programa pelo qual os usuários interagem pode ser pelo shell (TUI) ou interface gráfica (GUI).</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section>
-<h2 id="modos-de-operação">Modos de Operação</h2>
-<ul>
-<li><strong>Modo Núcleo</strong>: O SO opera no modo núcleo, com acesso completo ao hardware.</li>
-<li><strong>Modo Usuário</strong>: O modo usuário possui acesso restrito, geralmente sem permissão para executar instruções de E/S (entrada/saída).</li>
-</ul>
+<p>Os tipos de softwares podem ser o modo núcleo e modo usuário. O SO opera no modo núcleo (supervisor) - Possui acesso a todo hardware.</p>
+<p>Modo usuário possui apenas um pequeno conjunto das instruções da máquina. Geralmente não podem executar instruções de E/S (entrada/saída).</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section>
-<h2 id="o-que-é-um-sistema-operacional">O que é um Sistema Operacional?</h2>
-Um sistema operacional é um conjunto de programas que gerenciam os recursos de um computador ou dispositivo eletrônico, facilitando a interação entre o hardware e os aplicativos ou o usuário. Ele atua como uma camada intermediária, coordenando a interação entre os diversos componentes do sistema.
+<p>O que é um sistema operacional?</p>
+<p>Conjunto de programas que gerenciam (gerenciador de recursos) os recursos de um computador ou dispositivo eletrônico e facilitam a interação (máquina extendida) entre o hardware e os aplicativos ou o usuário. Ele funciona como uma camada intermediária entre o usuário e o hardware, garantindo que os diferentes componentes do sistema trabalhem de forma coordenada.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section>
-<h2 id="principais-funções-do-so">Principais funções do SO</h2>
-<ol type="1">
-<li><strong>Gerenciamento de Processos</strong>: Controla a execução de programas, gerenciando múltiplos processos e garantindo a utilização eficiente dos recursos.</li>
-<li><strong>Gerenciamento de Memória</strong>: Organiza a memória RAM e o armazenamento, alocando espaço para os programas em execução e otimizando o uso da memória.</li>
-</ol>
+<section>
+<strong>Principais funções</strong>
 </section>
 <section>
-<ol start="3" type="1">
-<li><strong>Gerenciamento de Dispositivos</strong>: Controla a comunicação com dispositivos periféricos, como teclados, mouses e impressoras.</li>
-<li><strong>Gerenciamento de Arquivos</strong>: Organiza, armazena e controla o acesso a arquivos e pastas no sistema, garantindo a segurança e a fácil recuperação das informações.</li>
-</ol>
+<p><strong>Gerenciamento de processos:</strong> Controla a execução de programas, gerenciando múltiplos processos e garantindo que eles utilizem os recursos de forma eficiente.</p>
+<p><strong>Gerenciamento de memória:</strong> Organiza a memória RAM e a memória de armazenamento, alocando espaço para programas em execução e otimizando o uso da memória.</p>
+<p>(TANENBAUM, 2015)</p>
+</section>
 </section>
 <section>
-<ol start="5" type="1">
-<li><strong>Interface com o Usuário</strong>: Oferece uma interface gráfica ou de linha de comando, permitindo ao usuário interagir com o sistema e executar comandos.</li>
-</ol>
-<em>Exemplos de sistemas operacionais</em>: Windows, macOS, Linux, Android e iOS.
+<p><strong>Gerenciamento de dispositivos:</strong> Controla a comunicação com dispositivos periféricos, como teclados, mouses, impressoras e outros componentes externos.</p>
+<p><strong>Gerenciamento de arquivos:</strong> Organiza, armazena e controla o acesso a arquivos e pastas no sistema, garantindo que as informações sejam facilmente acessíveis e seguras.</p>
+<p>(TANENBAUM, 2015)</p>
+</section>
+<section>
+<p><strong>Interface com o usuário:</strong> Fornece uma interface gráfica ou de linha de comando para que o usuário interaja com o sistema, executando comandos e acessando recursos.</p>
+<p><em>Exemplos de sistemas operacionais</em> incluem Windows, macOS, Linux, Android, e iOS.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 </section>
 <section id="história-dos-computadores" class="slide level1">
-<h1>História dos Computadores</h1>
+<h1>História dos computadores</h1>
 <ul>
-<li><strong>1945-1955 (Geração 1)</strong>: Válvulas, painéis de programação</li>
-<li><strong>1955-1965 (Geração 2)</strong>: Transistores, sistemas em lote</li>
-<li><strong>1965-1980 (Geração 3)</strong>: Circuitos integrados (CIs) e multiprogramação</li>
-<li><strong>1980-presente (Geração 4)</strong>: Computadores pessoais</li>
-<li><strong>1990-presente (Geração 5)</strong>: Computadores móveis</li>
+<li>1945-1955: Geração 1: Válvulas, painéis de programação</li>
+<li>1955-1965: Geração 2: transistores, sistemas em lote</li>
+<li>1965-1980: Geração 3: CIs e multiprogramação</li>
+<li>1980-presente: Geração 4: computadores pessoais</li>
+<li>1990-presente: Geração 5: computadores móveis</li>
 </ul>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="tipos-de-sos" class="slide level1">
 <h1>Tipos de SOs</h1>
 <ul>
 <li>SOs para computadores de grande porte</li>
-<li>SOs para servidores</li>
-<li>SOs para multiprocessadores</li>
-<li>SOs para computadores pessoais</li>
+<li>SOs de Servidores</li>
+<li>SOs de multiprocessadores</li>
+<li>SOs de computadores pessoais</li>
 <li>SOs de tempo real</li>
-<li>SOs embarcados</li>
-<li>SOs para cartões inteligentes</li>
+<li>SOs embarcado</li>
+<li>SOs de cartões inteligentes</li>
 </ul>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="hardware" class="slide level1">
-<h1>Hardware</h1>
+<h1>Hardware:</h1>
 <figure>
 <img data-src="imagem/SO1/SO-12-29.png" alt="" /><figcaption>Componentes de um computador pessoal</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="pipeline-de-execução-da-cpu" class="slide level1">
-<h1>Pipeline de Execução da CPU</h1>
+<section id="pipeline-execução-cpu" class="slide level1">
+<h1>Pipeline execução CPU:</h1>
 <figure>
-<img data-src="imagem/SO1/SO-12-56.png" alt="" /><figcaption>a) Pipeline de 3 estágios e b) CPU superescalar</figcaption>
+<img data-src="imagem/SO1/SO-12-56.png" alt="" /><figcaption>a) pipeline de 3 estágios e b) CPU superescalar</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="multithreading-e-multicore" class="slide level1">
-<h1>Multithreading e Multicore</h1>
+<h1>Multithreading e Multicore:</h1>
 <figure>
-<img data-src="imagem/SO1/SO-10-25-20.png" alt="" /><figcaption>a) Chip Quadcore e cache L2 compartilhada e b) L2 separadas</figcaption>
+<img data-src="imagem/SO1/SO-10-25-20.png" alt="" /><figcaption>a)Chip Quadcore e cache L2 compartilhada e b) L2 separadas</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="hierarquia-de-memória" class="slide level1">
-<h1>Hierarquia de Memória</h1>
+<section id="memória" class="slide level1">
+<h1>Memória:</h1>
 <figure>
 <img data-src="imagem/SO1/SO-24-43.png" alt="" /><figcaption>Hierarquia de memória</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="entradasaída-es" class="slide level1">
-<h1>Entrada/Saída (E/S)</h1>
+<section id="es" class="slide level1">
+<h1>E/S:</h1>
 <figure>
-<img data-src="imagem/SO1/SO-26-35.png" alt="" /><figcaption>a) Passos para iniciar um dispositivo E/S e b) Como a CPU é interrompida</figcaption>
+<img data-src="imagem/SO1/SO-26-35.png" alt="" /><figcaption>a)Passos para iniciar um dispositivo E/S e b) Como CPU é interrompida</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="barramentos" class="slide level1">
-<h1>Barramentos</h1>
+<h1>Barramentos:</h1>
 <figure>
 <img data-src="imagem/SO1/SO-27-04.png" alt="" /><figcaption>Estrutura de um sistema x86 grande</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="processos" class="slide level1">
-<h1>Processos</h1>
-<ul>
-<li><strong>Processo</strong>: É um programa em execução e possui um espaço de endereçamento próprio.</li>
-</ul>
+<h1>Processos:</h1>
+<p>Processos são programas em execução.</p>
+<p>Associado a cada processo existe um espaço de endereçamento.</p>
 <figure>
 <img data-src="imagem/SO1/SO-27-36.png" alt="" /><figcaption>Árvore de processos</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="arquivos-e-diretórios" class="slide level1">
-<h1>Arquivos e Diretórios</h1>
-<ul>
-<li><p><strong>Diretório</strong>: Método de agrupamento hierárquico de arquivos.</p></li>
-<li><p><strong>Caminho</strong>: Exemplo de caminho de arquivo: <code>~/Documentos/Git/PaginaWEB - ProfLgrando/proflgrando.github.io</code></p></li>
-</ul>
+<section id="arquivos" class="slide level1">
+<h1>Arquivos:</h1>
+<p>Diretório: maneira de agrupar os arquivos (hierarquia).</p>
+<p>Nome do caminho: ~/Documentos/Git/PaginaWEB - ProfLgrando/proflgrando.github.io</p>
 <figure>
 <img data-src="imagem/SO1/SO-27-59.png" alt="" /><figcaption>Sistemas de arquivos</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="montagem-do-sistema-de-arquivos-no-unix" class="slide level1">
-<h1>Montagem do Sistema de Arquivos no UNIX</h1>
-<ul>
-<li>No UNIX, ocorre a montagem de sistemas de arquivos de dispositivos como DVDs e dispositivos USB.</li>
-</ul>
+<section id="section" class="slide level1">
+<h1></h1>
+<p>No UNIX ocorre a montagem do sistema de arquivos (DVDs, memória de dispositivos USB etc).</p>
 <figure>
-<img data-src="imagem/SO1/SO-29-30.png" alt="" /><figcaption>a) Antes da montagem, b) Após a montagem</figcaption>
+<img data-src="imagem/SO1/SO-29-30.png" alt="" /><figcaption>a) antes da montagem, b) após a montagem</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="pipe" class="slide level1">
-<h1>Pipe</h1>
-<ul>
-<li>Um <strong>pipe</strong> é um pseudoarquivo utilizado para conectar dois processos.</li>
-</ul>
+<h1>Pipe:</h1>
+<p>Pseudoarquivo que pode ser usado para conectar dois processos.</p>
 <figure>
 <img data-src="imagem/SO1/SO-28-39.png" alt="" /><figcaption>Processos ligados por um pipe</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="chamada-de-sistema" class="slide level1">
-<h1>Chamada de Sistema</h1>
+<h1>Chamada de Sistema:</h1>
 <figure>
-<img data-src="imagem/SO1/SO-30-19.png" alt="" /><figcaption>11 passos para fazer uma chamada ao sistema <code>read(fd, buffer, nbytes)</code></figcaption>
+<img data-src="imagem/SO1/SO-30-19.png" alt="" /><figcaption>11 passos para fazer uma chamada ao sistema read(fd, buffer, nbytes)</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
-<section id="gerenciamento-de-processos-e-arquivos" class="slide level1">
-<h1>Gerenciamento de Processos e Arquivos</h1>
+<section id="section-1" class="slide level1">
+<h1></h1>
 <figure>
 <img data-src="imagem/SO1/SO-11-40-46.png" alt="" /><figcaption>Gerenciamento de processos e de arquivos</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="gerenciamento-de-diretórios-e-arquivos" class="slide level1">
 <h1>Gerenciamento de Diretórios e Arquivos</h1>
 <figure>
 <img data-src="imagem/SO1/SO-11-40-59.png" alt="" /><figcaption>Gerenciamento do sistema de diretório e de arquivos</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="segmentos-de-um-processo" class="slide level1">
 <h1>Segmentos de um Processo</h1>
@@ -241,7 +226,7 @@ Um sistema operacional é um conjunto de programas que gerenciam os recursos de 
 <figure>
 <img data-src="imagem/SO1/SO-11-40-59.png" alt="" /><figcaption>Segmentos de um processo</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="chamadas-de-gerenciamento-de-diretórios" class="slide level1">
 <h1>Chamadas de Gerenciamento de Diretórios</h1>
@@ -251,65 +236,71 @@ Um sistema operacional é um conjunto de programas que gerenciam os recursos de 
 <figure>
 <img data-src="imagem/SO1/SO-%2016-11-13.png" alt="" /><figcaption>a) Antes da ligação, b) Após a ligação</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="chamadas-à-api-win32" class="slide level1">
 <h1>Chamadas à API Win32</h1>
 <figure>
 <img data-src="imagem/SO1/SO-16-11-49.png" alt="" /><figcaption>Comparação interface API Win32</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
 <section id="estruturas-de-so" class="slide level1">
 <h1>Estruturas de SO</h1>
 <ol type="1">
-<li><p><strong>Sistemas Monolíticos</strong>: O código do núcleo é implementado em um único bloco, sem separação clara entre as partes.</p></li>
-<li><p><strong>Sistemas de Camadas</strong>: O SO é organizado em camadas, cada uma responsável por uma função específica.</p></li>
-<li><p><strong>Micronúcleos</strong>: Núcleos mínimos que delegam a maior parte das funções a processos no espaço de usuário.</p></li>
-<li><p><strong>Sistemas Clientes-Servidor</strong>: Sistema dividido entre clientes que solicitam serviços e servidores que os fornecem.</p></li>
-<li><p><strong>Máquinas Virtuais</strong>: Permitem a execução de sistemas operacionais independentes sobre um único hardware físico.</p></li>
-<li><p><strong>Exonúcleos</strong>: A gestão de recursos é movida para o espaço de usuário, oferecendo maior modularidade e flexibilidade.</p></li>
+<li><strong>Sistemas Monolíticos</strong>: O código do núcleo é implementado em um único bloco, sem separação clara entre as partes.</li>
+<li><strong>Sistemas de Camadas</strong>: O SO é organizado em camadas, cada uma responsável por uma função específica.</li>
+<li><strong>Micronúcleos</strong>: Núcleos mínimos que delegam a maior parte das funções a processos no espaço de usuário.</li>
+<li><strong>Sistemas Clientes-Servidor</strong>: Sistema dividido entre clientes que solicitam serviços e servidores que os fornecem.</li>
+<li><strong>Máquinas Virtuais</strong>: Permitem a execução de sistemas operacionais independentes sobre um único hardware físico.</li>
+<li><strong>Exonúcleos</strong>: A gestão de recursos é movida para o espaço de usuário, oferecendo maior modularidade e flexibilidade.</li>
 </ol>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="sistema-monolítico" class="slide level1">
 <h1>Sistema Monolítico</h1>
 <figure>
 <img data-src="imagem/SO1/SO-30-49.png" alt="" /><figcaption>Estruturação simples</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> No sistema monolítico, todo o código do sistema operacional é combinado em um único bloco, o que pode dificultar a manutenção e atualização do sistema.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="sistema-de-camadas" class="slide level1">
 <h1>Sistema de Camadas</h1>
 <figure>
 <img data-src="imagem/SO1/SO-32-01.png" alt="" /><figcaption>SO THE</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> No modelo em camadas, o sistema operacional é organizado de forma hierárquica, onde cada camada interage apenas com as camadas adjacentes, proporcionando maior modularidade.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="micronúcleos" class="slide level1">
 <h1>Micronúcleos</h1>
 <figure>
 <img data-src="imagem/SO1/SO-32-16.png" alt="" /><figcaption>Sistema MINIX</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> Os micronúcleos oferecem um núcleo minimalista e delegam muitas funções para processos no espaço de usuário, aumentando a flexibilidade e a segurança do sistema.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="modelo-cliente-servidor" class="slide level1">
 <h1>Modelo Cliente-Servidor</h1>
 <figure>
 <img data-src="imagem/SO1/SO-32-32.png" alt="" /><figcaption>Sistema MINIX</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> O modelo cliente-servidor divide o sistema em partes que solicitam e fornecem serviços, promovendo a comunicação e a distribuição de recursos de forma eficiente.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="máquinas-virtuais" class="slide level1">
 <h1>Máquinas Virtuais</h1>
 <figure>
 <img data-src="imagem/SO1/SO-33-01.png" alt="" /><figcaption>VM/#&amp;) com CMS</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre um único hardware físico, isolando-os uns dos outros para garantir segurança e independência.</p>
+<p>(TANENBAUM, 2015)</p>
 </section>
 <section id="máquinas-virtuais-cont." class="slide level1">
 <h1>Máquinas Virtuais (cont.)</h1>
@@ -319,8 +310,13 @@ Um sistema operacional é um conjunto de programas que gerenciam os recursos de 
 <figure>
 <img data-src="imagem/SO1/SO-33-01.png" alt="" /><figcaption>VMs redescoberto com Hypervisor</figcaption>
 </figure>
-<p>Fonte: TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>.</p>
+<p><strong>Fonte:</strong> TANENBAUM, Andrew S. <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 <p><strong>Explicação:</strong> O conceito de máquinas virtuais foi expandido com o uso de hypervisores, que permitem a criação e o gerenciamento de diversas máquinas virtuais em um único sistema físico.</p>
+<p>(TANENBAUM, 2015)</p>
+</section>
+<section id="referência-bibliográfica" class="slide level1">
+<h1>Referência Bibliográfica</h1>
+<p><strong>TANENBAUM, Andrew S.</strong> <em>Sistemas operacionais modernos</em>. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.</p>
 </section>
     </div>
   </div>
