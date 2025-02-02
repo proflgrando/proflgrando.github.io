@@ -140,13 +140,6 @@ Associado a cada processo existe um espaço de endereçamento
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
-# Arquivos:
-
-Diretório: maneira de agrupar os arquivos
-
-![Árvore de processos](imagem/SO1/SO-27-59.png)
-
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 # Arquivos:
 
@@ -162,14 +155,33 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 No UNIX ocorre a montagem do sistema de arquivos (DVDs, memória de dispositivos USB etc)
 
-![a) antes da montagem, b) após a montagem](imagem/SO1/SO-28-39.png)
+![a) antes da montagem, b) após a montagem](imagem/SO1/SO-29-30.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 # Pipe:
 
-Pseudoarquiv que pode ser usado para conectar dois processos.
+Pseudoarquivo que pode ser usado para conectar dois processos.
 
-![Processos ligados por um pipe](imagem/SO1/SO-29-30.png)
+![Processos ligados por um pipe](imagem/SO1/SO-28-39.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+
+# Chamada de Sistema:
+
+![11 passos para fazer uma chamada ao sistema read(fd, buffer, nbytes)](imagem/SO1/SO-30-19.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Chamada de Sistema:
+
+![Gerenciamento de processos e de arquivos](imagem/SO1/SO-11-40-46.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Chamada de Sistema:
+
+![Gerenciamento do sistema de diretório e de arquivos e diversos](imagem/SO1/SO-11-40-59.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
