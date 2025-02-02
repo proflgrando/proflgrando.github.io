@@ -210,3 +210,16 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 
+# Estruturas de SO
+
+1. **Sistemas monolíticos**: São sistemas operacionais em que todo o código do núcleo é implementado em um único bloco, sem separação clara entre suas partes.
+  
+2. **Sistemas de camadas**: O sistema operacional é organizado em camadas hierárquicas, onde cada camada executa uma função específica e interage apenas com a camada imediatamente superior ou inferior.
+
+3. **Micronúcleos**: São sistemas operacionais com núcleos mínimos, que oferecem apenas os serviços essenciais, delegando outras funções a processos de espaço de usuário.
+
+4. **Sistemas clientes-servidor**: Estrutura onde o sistema é dividido em clientes que solicitam serviços e servidores que os fornecem, frequentemente em uma rede distribuída.
+
+5. **Máquinas virtuais**: Permitem a execução de vários sistemas operacionais independentes, chamados de "máquinas virtuais", sobre um único hardware físico, isolando recursos e processos.
+
+6. **Exonúcleos**: Em vez de centralizar todos os serviços no núcleo, os exonúcleos movem grande parte da gestão para o espaço de usuário, promovendo maior flexibilidade e modularidade.
