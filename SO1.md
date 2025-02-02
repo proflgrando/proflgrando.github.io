@@ -209,3 +209,41 @@ Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
 5. **Máquinas Virtuais**: Permitem a execução de sistemas operacionais independentes sobre um único hardware físico.
 6. **Exonúcleos**: A gestão de recursos é movida para o espaço de usuário, oferecendo maior modularidade e flexibilidade.
+
+# Sistema Monolitico:
+
+![Estruturação simple](imagem/SO1/SO-30-49.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Sistema de Camadas:
+
+![SO THE](imagem/SO1/SO-32-01.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Micronúcleos:
+
+![Sistema MINIX](imagem/SO1/SO-32-16.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Modelo Cliente-servidor:
+
+![Sistema MINIX](imagem/SO1/SO-32-32.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Máquinas Virtuais:
+
+![VM/#&) com CMS](imagem/SO1/SO-33-01.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Máquinas Virtuais:
+
+![VM/370 com CMS](imagem/SO1/SO17-12-22.png)
+
+![VMs redescoberto com Hypervisor](imagem/SO1/SO-33-01.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
