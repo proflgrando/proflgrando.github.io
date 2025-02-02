@@ -49,7 +49,7 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 <section>
   O que é um sistema operacional?
   
-  Conjunto de programas que gerenciam os recursos de um computador ou dispositivo eletrônico e facilitam a interação entre o hardware e os aplicativos ou o usuário. Ele funciona como uma camada intermediária entre o usuário e o hardware, garantindo que os diferentes componentes do sistema trabalhem de forma coordenada.
+  Conjunto de programas que gerenciam (gerenciador de recursos) os recursos de um computador ou dispositivo eletrônico e facilitam a interação (máquina extendida) entre o hardware e os aplicativos ou o usuário. Ele funciona como uma camada intermediária entre o usuário e o hardware, garantindo que os diferentes componentes do sistema trabalhem de forma coordenada.
 </section>
 
 <section>
@@ -78,10 +78,13 @@ Modo usuário possui apenas um pequeno conjunto das intruções da máquina. Ger
 </section>
 
 
-# Bar
-* test
-* testmarkd
 
+# Historia dos computadores
+* 1945-1955: Primeira geração: Válvulas, painéis de programação
+* 1955-1955: Segunda geração: transistores, sistemas em lote
+* 1965-1980: Terceira geração: CIs e multiprogramação
+* 1980-presente: Quarta geração: computadores pessoais
+* 1990-presente: Quinta Geração: computadores móveis
 
 # Bar
 * 9
