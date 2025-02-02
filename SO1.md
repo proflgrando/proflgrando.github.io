@@ -29,7 +29,7 @@ Sistema Computacional:
 
 ![Localização de um SO num sistema computacional](imagem/SO1/SO1.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 </section>
 
 <section>
@@ -118,37 +118,37 @@ Modo usuário possui apenas um pequeno conjunto das instruções da máquina. Ge
 
 ![Componentes de um computador pessoal](imagem/SO1/SO-12-29.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Pipeline execução CPU:
 
 ![a) pipeline de 3 estágios e b) CPU superescalar](imagem/SO1/SO-12-56.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Multithreading e Multicore:
 
 ![a)Chip Quadcore e cache L2 compartilhada e b) L2 separadas](imagem/SO1/SO-10-25-20.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Memória:
 
 ![Hierarquia de memória](imagem/SO1/SO-24-43.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # E/S:
 
 ![a)Passos para iniciar um dispositivo E/S e b) Como CPU é interrompida](imagem/SO1/SO-26-35.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Barramentos:
 
 ![Estrutura de um sistema x86 grande](imagem/SO1/SO-27-04.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Processos:
 
@@ -158,7 +158,7 @@ Associado a cada processo existe um espaço de endereçamento.
 
 ![Árvore de processos](imagem/SO1/SO-27-36.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Arquivos:
 
@@ -168,7 +168,7 @@ Nome do caminho: ~/Documentos/Git/PaginaWEB - ProfLgrando/proflgrando.github.io
 
 ![Sistemas de arquivos](imagem/SO1/SO-27-59.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # 
 
@@ -176,7 +176,7 @@ No UNIX ocorre a montagem do sistema de arquivos (DVDs, memória de dispositivos
 
 ![a) antes da montagem, b) após a montagem](imagem/SO1/SO-29-30.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Pipe:
 
@@ -184,25 +184,25 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 ![Processos ligados por um pipe](imagem/SO1/SO-28-39.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Chamada de Sistema:
 
 ![11 passos para fazer uma chamada ao sistema read(fd, buffer, nbytes)](imagem/SO1/SO-30-19.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Gerenciamento de Diretórios e Arquivos
 
 ![Gerenciamento de processos e de arquivos](imagem/SO1/SO-11-40-46.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # 
 
 ![Gerenciamento do sistema de diretório e de arquivos](imagem/SO1/SO-11-40-59.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Segmentos de um Processo
 
@@ -210,7 +210,7 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 ![Segmentos de um processo](imagem/SO1/SO-16-10-24.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Chamadas de Gerenciamento de Diretórios
 
@@ -218,13 +218,13 @@ Pseudoarquivo que pode ser usado para conectar dois processos.
 
 ![a) Antes da ligação, b) Após a ligação](imagem/SO1/SO-%2016-11-13.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Chamadas à API Win32
 
 ![Comparação interface API Win32](imagem/SO1/SO-16-11-49.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Estruturas de SO
 
@@ -242,7 +242,7 @@ No sistema monolítico, todo o código do sistema operacional é combinado em um
 
 ![Estruturação simples](imagem/SO1/SO-30-49.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 
 # Sistema de Camadas
@@ -251,7 +251,7 @@ No modelo em camadas, o sistema operacional é organizado de forma hierárquica,
 
 ![SO THE](imagem/SO1/SO-32-01.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 
 # Micronúcleos
@@ -260,7 +260,7 @@ Os micronúcleos oferecem um núcleo minimalista e delegam muitas funções para
 
 ![Sistema MINIX](imagem/SO1/SO-32-16.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Modelo Cliente-Servidor
 
@@ -268,7 +268,7 @@ O modelo cliente-servidor divide o sistema em partes que solicitam e fornecem se
 
 ![Sistema MINIX](imagem/SO1/SO-32-32.png)
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 
 # Máquinas Virtuais
@@ -281,7 +281,7 @@ As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre 
 
 # Referência Bibliográfica
 
-**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. Disponível em: https://biblioteca.sophia.com.br/9198/index.asp?codigo_sophia=809213. Acesso em: 2 fev. 2025.
+**Fonte:** TANENBAUM, Andrew S. *Sistemas operacionais modernos*. São Paulo, SP: Pearson, 2015. 
 
 # Referência Bibliográfica
 
