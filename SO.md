@@ -185,3 +185,28 @@ Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
 ![Gerenciamento do sistema de diretório e de arquivos e diversos](imagem/SO1/SO-11-40-59.png)
 
 Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Segmentos de um processo:
+
+![Cada processo possui três segmentos: texto, dados e pilha](imagem/SO1/SO-11-40-59.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Segmentos de um processo:
+
+![Cada processo possui três segmentos: texto, dados e pilha](imagem/SO1/SO-16-10-24.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Chamadas gerenciamento de diretórios:
+
+![a) antes da ligação de /usr/jim/memo ao diretório ast. b) após esta ligação](imagem/SO1/SO-%2016-11-13.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
+# Chamadas ao API Win32:
+
+![Comparação interface API Win32](imagem/SO1/SO-16-11-49.png)
+
+Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+
