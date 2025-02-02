@@ -210,40 +210,52 @@ Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 5. **Máquinas Virtuais**: Permitem a execução de sistemas operacionais independentes sobre um único hardware físico.
 6. **Exonúcleos**: A gestão de recursos é movida para o espaço de usuário, oferecendo maior modularidade e flexibilidade.
 
-# Sistema Monolitico:
+# Sistema Monolítico
 
-![Estruturação simple](imagem/SO1/SO-30-49.png)
+![Estruturação simples](imagem/SO1/SO-30-49.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
-# Sistema de Camadas:
+**Explicação:** No sistema monolítico, todo o código do sistema operacional é combinado em um único bloco, o que pode dificultar a manutenção e atualização do sistema.
+
+# Sistema de Camadas
 
 ![SO THE](imagem/SO1/SO-32-01.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
-# Micronúcleos:
+**Explicação:** No modelo em camadas, o sistema operacional é organizado de forma hierárquica, onde cada camada interage apenas com as camadas adjacentes, proporcionando maior modularidade.
+
+# Micronúcleos
 
 ![Sistema MINIX](imagem/SO1/SO-32-16.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
-# Modelo Cliente-servidor:
+**Explicação:** Os micronúcleos oferecem um núcleo minimalista e delegam muitas funções para processos no espaço de usuário, aumentando a flexibilidade e a segurança do sistema.
+
+# Modelo Cliente-Servidor
 
 ![Sistema MINIX](imagem/SO1/SO-32-32.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
-# Máquinas Virtuais:
+**Explicação:** O modelo cliente-servidor divide o sistema em partes que solicitam e fornecem serviços, promovendo a comunicação e a distribuição de recursos de forma eficiente.
+
+# Máquinas Virtuais
 
 ![VM/#&) com CMS](imagem/SO1/SO-33-01.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
 
-# Máquinas Virtuais:
+**Explicação:** As máquinas virtuais permitem que múltiplos sistemas operacionais rodem sobre um único hardware físico, isolando-os uns dos outros para garantir segurança e independência.
+
+# Máquinas Virtuais (cont.)
 
 ![VM/370 com CMS](imagem/SO1/SO17-12-22.png)
 
 ![VMs redescoberto com Hypervisor](imagem/SO1/SO-33-01.png)
 
-Fonte imagem: TANENBAUM, Andrew S. Sistemas operacionais modernos.
+Fonte: TANENBAUM, Andrew S. *Sistemas operacionais modernos*.
+
+**Explicação:** O conceito de máquinas virtuais foi expandido com o uso de hypervisores, que permitem a criação e o gerenciamento de diversas máquinas virtuais em um único sistema físico.
