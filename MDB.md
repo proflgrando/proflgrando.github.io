@@ -10,7 +10,7 @@ output:
 
 Imagine o caso de uma empresa com três departamentos distintos e com bancos de dados separados, em sistemas isolados:
 
-![Dados não compartilhados](imagem/MDB/001.png)
+![Dados não compartilhados](imagem/MBD/001.png)
 
 Ocorre redundância de dados.
 
@@ -27,7 +27,7 @@ Como evitar a redundância não controlada?
 
 Conjunto de arquivos integrados que atendem a um conjunto de sistemas (HEUSER, 2009)
 
-![Banco de dados](imagem/MDB/002.png)
+![Banco de dados](imagem/MBD/002.png)
 
 **Fonte:** Adaptado de HEUSER, Carlos Alberto. *Projetos de banco de dados*. 6.ed. Porto Alegre, RS: Bookman, 2009.
 
