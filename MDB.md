@@ -110,7 +110,7 @@ Atraves da identificação das entidades que terão informações representadas 
 1. Modelagem conceitual
 2. Projeto lógico 
 
-Caso ja exista, nescessário executar engenharia reversa.
+Caso o BD já seja existente, será nescessário executar um processo de engenharia reversa.
 
 # Referência Bibliográfica
 
