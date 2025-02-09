@@ -67,8 +67,50 @@ Como a estrutura de dados pode aparecer no BD. Não apresenta como os dados est�
 - Abordagem entidade-relacionamento (ER) - Técnica de modelagem conceitual
 - Diagrama entidade-relacionamento (DER) - esquema diagramático.
 
+![DER](imagem/MBD/004.png)
 
+**Fonte:** HEUSER, Carlos Alberto. *Projetos de banco de dados*. 6.ed. Porto Alegre, RS: Bookman, 2009.
 
+# Modelo Lógico
+
+Representa a estrutura de dados de um banco de dados conforme vista pelo usuário do SGBD (HEUSER, 2009).
+
+Banco de dados relacional
+
+![Banco de dados relacional](imagem/MBD/005.png)
+
+**Fonte:** HEUSER, Carlos Alberto. *Projetos de banco de dados*. 6.ed. Porto Alegre, RS: Bookman, 2009.
+
+# Esquema diagramático
+
+![Esquema Diagramatico](imagem/MBD/006.png)
+
+**Fonte:** HEUSER, Carlos Alberto. *Projetos de banco de dados*. 6.ed. Porto Alegre, RS: Bookman, 2009.
+
+# Esquema textual
+
+![Esquema textual](imagem/MBD/007.png)
+
+**Fonte:** HEUSER, Carlos Alberto. *Projetos de banco de dados*. 6.ed. Porto Alegre, RS: Bookman, 2009.
+
+# Modelo Físico
+
+- Informações sobre o armazenamento interno das informações
+- influencia o desempenho das aplicações (não sobre a programação de aplicações no SGBD)
+
+# Projeto de banco de dados.
+
+Atraves da identificação das entidades que terão informações representadas no banco de dados é possivel identificar os arquivos que irão compor o banco de dados.
+
+**Modelo da organização:** Define as entidades da organização que possuem informações no BD
+**Modelos do banco de dados:** define os arquivos (tabelas) que farão parte do BD
+
+# Projeto de um BD
+
+1. Modelagem conceitual
+2. Projeto lógico 
+
+Caso ja exista, nescessário executar engenharia reversa.
 
 # Referência Bibliográfica
 
